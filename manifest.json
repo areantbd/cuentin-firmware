@@ -1,8 +1,8 @@
 {
-  "version": "0.2.0",
-  "file": "cuentin-0.2.0.bin",
-  "size": 1746432,
-  "sha256": "dcdae60717e61727be81124b75038effb31c60656879f19bfc6e3bcb306921db",
-  "notes": "Gestión de cuentos desde la web: ver archivos y portada, cambiar título y portada (desde una foto), borrar pistas o cuentos, y aviso al subir a un cuento existente.",
-  "published": "2026-10-31"
+  "version": "0.3.0",
+  "file": "cuentin-0.3.0.bin",
+  "size": 1758240,
+  "sha256": "0fea8aff78643e6ca1caf8aba68080eec4c746d78e8a9f81628bc7d235ba9611",
+  "notes": "Lectura de batería: icono en la cabecera, tensión y porcentaje en Mantenimiento, aviso por debajo de 3,5 V y apagado guardado por debajo de 3,3 V.",
+  "published": "2026-11-08"
 }
