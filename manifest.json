@@ -1,8 +1,8 @@
 {
-  "version": "0.3.0",
-  "file": "cuentin-0.3.0.bin",
+  "version": "0.3.1",
+  "file": "cuentin-0.3.1.bin",
   "size": 1758240,
-  "sha256": "0fea8aff78643e6ca1caf8aba68080eec4c746d78e8a9f81628bc7d235ba9611",
-  "notes": "Lectura de batería: icono en la cabecera, tensión y porcentaje en Mantenimiento, aviso por debajo de 3,5 V y apagado guardado por debajo de 3,3 V.",
+  "sha256": "25e51ecc0f9a688ea614170219d03d933c12a3141d5c265e2ebe3766cc58923e",
+  "notes": "Corrige la posición de la línea de batería en Mantenimiento.",
   "published": "2026-11-08"
 }
